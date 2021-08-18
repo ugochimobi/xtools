@@ -6,12 +6,12 @@ XTools is a suite of statistics tools for Wikimedia wikis, users, pages, and mor
 * Documentation: https://www.mediawiki.org/wiki/Special:MyLanguage/XTools
 * Issue tracker (WMF): https://phabricator.wikimedia.org/tag/xtools/ 
 
-[![release](https://img.shields.io/github/release/ugochimobi/xtools.svg)](https://github.com/ugochimobi/xtools/releases/latest)
+[![release](https://img.shields.io/github/release/x-tools/xtools.svg)](https://github.com/ugochimobi/xtools/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-![CI](https://github.com/ugochimobi/xtools/actions/workflows/ci.yml/badge.svg)
-[![codecov](https://codecov.io/gh/ugochimobi/xtools/branch/main/graph/badge.svg?token=BCmHqChZl7)](https://codecov.io/gh/ugochimobi/xtools)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ugochimobi/xtools/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/ugochimobi/xtools/?branch=main)
+![CI](https://github.com/x-tools/xtools/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/x-tools/xtools/branch/main/graph/badge.svg?token=BCmHqChZl7)](https://codecov.io/gh/ugochimobi/xtools)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/x-tools/xtools/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/ugochimobi/xtools/?branch=main)
 
 ## Contributing
 
