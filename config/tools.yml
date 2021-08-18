@@ -1,20 +1,20 @@
 parameters:
   tools:
     # This is the order they will appear in the interface.
-    - EditCounter
+    - AdminScore
+    - AdminStats
     - ArticleInfo
     - Authorship
-    - Blame
-    - GlobalContribs
-    - Pages
-    - TopEdits
     - AutoEdits
+    - Blame
     - CategoryEdits
-    - AdminStats
-    - LargestPages
-    - AdminScore
+    - EditCounter
     - EditSummary
+    - GlobalContribs
+    - LargestPages
+    - Pages
+    - Quote
     - RfX
     - RfXVote
-    - Quote
     - SimpleEditCounter
+    - TopEdits
