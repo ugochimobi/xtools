@@ -28,7 +28,7 @@ parameters:
     database_toolsdb_host:      127.0.0.1
     database_toolsdb_port:      null
 
-    # Oauth consumer credentials, from https://meta.wikimedia.org/wiki/Special:OAuthConsumerRegistration
+    # Oauth consumer credentials, from https://meta.miraheze.org/wiki/Special:OAuthConsumerRegistration
     oauth_key:                  ~
     oauth_secret:               ~
 
@@ -42,11 +42,11 @@ parameters:
     cache.adapter: filesystem
     cache.redis_dsn: 'redis://localhost'
 
-    wiki_url:                   https://en.wikipedia.org
+    wiki_url:                   https://en.famepedia.org
     api_path:                   /w/api.php
-    default_project:            en.wikipedia.org
-    central_auth_project:       meta.wikimedia.org
-    opted_in:                   ['enwiki']
+    default_project:            en.famepedia.org
+    central_auth_project:       meta.miraheze.org
+    opted_in:                   ['famepediawiki']
 
     # A secret key that's used to generate certain security-related tokens, and as the secret for the internal API.
     secret:            ThisTokenIsNotSoSecretChangeIt
