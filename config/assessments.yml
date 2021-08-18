@@ -128,8 +128,8 @@ parameters:
           color: ''
           category: 'تصنيف:مقالات غير معروفة الأهمية'
           weight: 0
-    en.wikipedia.org:
-      wikiproject_prefix: 'Wikipedia:WikiProject '
+    en.famepedia.org:
+      wikiproject_prefix: 'FAMEPedia:WikiProject '
       class:
         FA:
           badge: 'b/bc/Featured_article_star.svg'
