@@ -25,7 +25,7 @@ $(function () {
         // Change project to Meta if it's Steward Stats.
         if ('steward' === $(this).val()) {
             lastProject = $projectInput.val();
-            $projectInput.val('meta.wikimedia.org');
+            $projectInput.val('meta.miraheze.org');
         } else {
             $projectInput.val(lastProject);
         }
